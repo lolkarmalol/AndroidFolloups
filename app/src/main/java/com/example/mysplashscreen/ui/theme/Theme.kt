@@ -1,4 +1,4 @@
-package com.example.mysplashscreen.ui.theme
+  package com.example.mysplashscreen.ui.theme
 
 import android.app.Activity
 import android.os.Build
