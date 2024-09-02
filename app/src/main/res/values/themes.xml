@@ -2,8 +2,8 @@
 <resources>
 
     <style name="Theme.MySplashScreen" parent="android:Theme.Material.Light.NoActionBar">
-        <item name="android:windowSplashScreenBackground">@color/yellow_wplnd</item>
-        <item name="android:windowSplashScreenAnimatedIcon">@drawable/logocarawooperland</item>
+        <item name="android:windowSplashScreenBackground">@color/white</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/followup</item>
         <item name="android:windowSplashScreenAnimationDuration">1000</item>
         <item name="android:windowSplashScreenIconBackgroundColor">@color/white</item>
         <item name="android:windowSplashScreenBehavior">icon_preferred</item>
